@@ -35,7 +35,7 @@
 1. For each year, I will calculate the total number of suicides taken place. -Rayaan Ahmed.
 2. For each country, I will find out the total number of suicides taken place. -Lakshmi Vancha.
 3. Far each sex, I will find the average number of sucides taken place. -Gopi Amara
- 
+4. For a given age span, I will find the total number of suicides taken place. -Vinay Linginedi. 
  
 ## Big Data Solutions
 - Sai Sri Lakshmi Vancha 
@@ -92,6 +92,24 @@
     - Reducer output
         - sex = male average number of sucides = 373.034 ~ (373)
 
+    - Language being used
+        - I used Python for map reducing.
+
+    - What kind of chart will you use to display your results?
+        - I will use Pie chart to display my results.
+     
+   - Vinay Linginedi 
+    - Mapper input: One line of data that mapper will read:
+        - 1 Albania	1995	male	55-74 years	9	178000	5.06	Albania1995	0.619	2,424,499,009	835	Silent
+        
+    - Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+        - 15years - 24years 21
+        - 35years - 54years 16
+        - 55years - 74years 4
+        - 25years - 34years 19
+        - 5years - 14years 11
+    - Reducer output
+        - Age = 15years - 24years Total number of suicides taken place = 808542
     - Language being used
         - I used Python for map reducing.
 
