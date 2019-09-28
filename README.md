@@ -70,7 +70,7 @@
         - 2007 29
 
     - Reducer output
-        - Country = 1987 total number of sucides = 126842
+        - year = 1987 total number of sucides = 126842
 
     - Language being used
         - I used Python for map reducing.
