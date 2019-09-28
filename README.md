@@ -98,7 +98,7 @@
     - What kind of chart will you use to display your results?
         - I will use Pie chart to display my results.
      
-   - Vinay Linginedi 
+- Vinay Linginedi 
     - Mapper input: One line of data that mapper will read:
         - 1 Albania	1995	male	55-74 years	9	178000	5.06	Albania1995	0.619	2,424,499,009	835	Silent
         
