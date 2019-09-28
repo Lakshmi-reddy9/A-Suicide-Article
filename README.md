@@ -33,7 +33,7 @@
 
 ## Big Data Questions
 1. For each year, I will calculate the total number of suicides taken place. -Rayaan Ahmed.
-2. For each country, I will find out the maximum number of suicides taken place. -Lakshmi Vancha.
+2. For each country, I will find out the total number of suicides taken place. -Lakshmi Vancha.
 
  
  
@@ -50,7 +50,7 @@
         - United States 4199
 
     - Reducer output
-        - Country = Albania maximum number of sucides = 39
+        - Country = Albania total number of sucides = 1970
 
     - Language being used
         - I used Python for map reducing.
