@@ -32,7 +32,7 @@
 - Value: From the dataset we can give the number of people commiting suicide for a year at a given place and at a particular age.
 
 ## Big Data Questions
-1. For each year, I will calculate the total number of male suicides taken place. -Rayaan Ahmed.
+1. For each year, I will calculate the total number of suicides taken place. -Rayaan Ahmed.
 2. For each country, I will find out the maximum number of suicides taken place. -Lakshmi Vancha.
 
  
@@ -51,6 +51,26 @@
 
     - Reducer output
         - Country = Albania maxium number of sucides = 1970
+
+    - Language being used
+        - I used Python for map reducing.
+
+    - What kind of chart will you use to display your results?
+        - I will use Pie chart to display my results.
+        
+ - Rayaan Ahmed 
+    - Mapper input: One line of data that mapper will read:
+        - 1 Albania	1995	male	55-74 years	9	178000	5.06	Albania1995	0.619	2,424,499,009	835	Silent
+        
+    - Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+        - 1987 14
+        - 1988 17
+        - 1995 13
+        - 1997 36
+        - 2007 29
+
+    - Reducer output
+        - Country = 1987 total number of sucides = 126842
 
     - Language being used
         - I used Python for map reducing.
