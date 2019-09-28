@@ -50,7 +50,7 @@
         - United States 4199
 
     - Reducer output
-        - Country = Albania maxium number of sucides = 1970
+        - Country = Albania maximum number of sucides = 39
 
     - Language being used
         - I used Python for map reducing.
@@ -58,7 +58,7 @@
     - What kind of chart will you use to display your results?
         - I will use Pie chart to display my results.
         
- - Rayaan Ahmed 
+- Rayaan Ahmed 
     - Mapper input: One line of data that mapper will read:
         - 1 Albania	1995	male	55-74 years	9	178000	5.06	Albania1995	0.619	2,424,499,009	835	Silent
         
