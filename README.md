@@ -18,6 +18,12 @@
 ## DataSource
 - This dataset is created with data from 1985 to 2016, the data is retrieved from United Nations Development Program (2018) Human development index (HDI), World Bank (2018), World Health Organization (2018).
 
+## DataSource Link
+
+- [DataSource](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
+
+
+
 ## The Challenge
 - Volume: It is 2.58MB of dataset where we have 27821 records. It is a 31 years of dataset.
 - Variety: It is a structured dataset and in a CSV format.
@@ -26,8 +32,8 @@
 - Value: From the dataset we can give the number of people commiting suicide for a year at a given place and at a particular age.
 
 ## Big Data Questions
-- For each year, I will calculate the total number of male suicides taken place. -Rayaan Ahmed.
-- For each country, I will find out the maximum number of suicides taken place. -Lakshmi Vancha.
+1. For each year, I will calculate the total number of male suicides taken place. -Rayaan Ahmed.
+2. For each country, I will find out the maximum number of suicides taken place. -Lakshmi Vancha.
 
  
  
