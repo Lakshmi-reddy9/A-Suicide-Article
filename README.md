@@ -60,6 +60,10 @@
 
         ![Box and Whisker](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_suicides_by_country.png)
         
+    - Summary : From the graph if we sort the data from highest to lowest order Russia tops the chart with arab countries in the second place Jamaica in the third place the other countries are ranged from 5000 to 1 suicide in the 31 years i.e. from 1985 to 2016. As per wikipedia the suicide rate in Russia is higher due to heavy alcohol consumption.
+    
+    
+    
 - Rayaan Ahmed 
     - Mapper input: One line of data that mapper will read:
         - 1 Albania	1995	male	55-74 years	9	178000	5.06	Albania1995	0.619	2,424,499,009	835	Silent
@@ -82,6 +86,8 @@
         
 
         ![Scatter Plot](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_suicides_by_year.png)
+        
+     - Summary : The given graph is sorted from highest rate of suicides to lowest rate where the year 2008 has the count 1100 approximately and the year 2015 has the lowest range of suicides taken place that is around 180. According to the Forbes the reason for the highest rate of suicides in 2008 is due to financial debts, job loss and home foreclosures.
 
 - Gopi Amara 
     - Mapper input: One line of data that mapper will read:
@@ -123,5 +129,3 @@
         - I will use Box and Whisker chart to display my results.
 
      ![Box and Whisker](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_suicides_by_age.png)
-     
-     Summary: From the above graph we can observe that as the age grows there is a exponential raise in the suicides and after certain age like 70+ there is a drastic drop in suicides. 
