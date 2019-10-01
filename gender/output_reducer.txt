@@ -1,0 +1,2 @@
+sex: male,Total number of suicides: 5188911.0
+sex: female,Total number of suicides: 1559511.0
