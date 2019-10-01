@@ -120,6 +120,6 @@
         - I used Python for map reducing.
 
     - What kind of chart will you use to display your results?
-        - I will use Pie chart to display my results.
+        - I will use Box and Whisker chart to display my results.
 
      ![Box and Whisker](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_suicides_by_age.png)
