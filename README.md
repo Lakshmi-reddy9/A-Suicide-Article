@@ -129,3 +129,5 @@
         - I will use Box and Whisker chart to display my results.
 
      ![Box and Whisker](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_suicides_by_age.png)
+     
+     Summary: From the chart we can observe that there is a exponential growth of suicides as the age span increases and there is a drastic decrease of suicides from age 70.
