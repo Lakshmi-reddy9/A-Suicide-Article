@@ -1,0 +1,6 @@
+age: 5-14 years,Total number of suicides: 52265.0
+age: 55-74 years,Total number of suicides: 1658444.0
+age: 25-34 years,Total number of suicides: 1123913.0
+age: 35-54 years,Total number of suicides: 2452142.0
+age: 15-24 years,Total number of suicides: 808543.0
+age: 75+ years,Total number of suicides: 653119.0

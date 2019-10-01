@@ -1,0 +1,102 @@
+country: Canada,Total number of suicides: 107462.0
+country: Turkmenistan,Total number of suicides: 8625.0
+country: Lithuania,Total number of suicides: 28040.0
+country: Aruba,Total number of suicides: 102.0
+country: Argentina,Total number of suicides: 82210.0
+country: Bahrain,Total number of suicides: 464.0
+country: Slovenia,Total number of suicides: 10616.0
+country: Guatemala,Total number of suicides: 8150.0
+country: Bosnia and Herzegovina,Total number of suicides: 319.0
+country: Russian Federation,Total number of suicides: 1208743.0
+country: Dominica,Total number of suicides: 1.0
+country: Netherlands,Total number of suicides: 50834.0
+country: Oman,Total number of suicides: 34.0
+country: Cabo Verde,Total number of suicides: 43.0
+country: New Zealand,Total number of suicides: 14384.0
+country: Jamaica,Total number of suicides: 185.0
+country: Albania,Total number of suicides: 1950.0
+country: Macau,Total number of suicides: 28.0
+country: United Arab Emirates,Total number of suicides: 623.0
+country: Azerbaijan,Total number of suicides: 1657.0
+country: Cyprus,Total number of suicides: 413.0
+country: Turkey,Total number of suicides: 10023.0
+country: Czech Republic,Total number of suicides: 43688.0
+country: Saint Lucia,Total number of suicides: 231.0
+country: Hungary,Total number of suicides: 73892.0
+country: San Marino,Total number of suicides: 5.0
+country: Mongolia,Total number of suicides: 423.0
+country: France,Total number of suicides: 329118.0
+country: Slovakia,Total number of suicides: 13438.0
+country: Norway,Total number of suicides: 16993.0
+country: Cuba,Total number of suicides: 41419.0
+country: Montenegro,Total number of suicides: 473.0
+country: Saint Kitts and Nevis,Total number of suicides: 1.0
+country: Armenia,Total number of suicides: 1906.0
+country: Antigua and Barbuda,Total number of suicides: 12.0
+country: Ukraine,Total number of suicides: 318951.0
+country: Finland,Total number of suicides: 33678.0
+country: Mauritius,Total number of suicides: 3895.0
+country: Sweden,Total number of suicides: 37796.0
+country: Belarus,Total number of suicides: 59892.0
+country: Bulgaria,Total number of suicides: 36389.0
+country: United States,Total number of suicides: 1023989.0
+country: Romania,Total number of suicides: 72778.0
+country: Portugal,Total number of suicides: 24062.0
+country: South Africa,Total number of suicides: 7322.0
+country: Fiji,Total number of suicides: 305.0
+country: Austria,Total number of suicides: 50074.0
+country: Japan,Total number of suicides: 805898.0
+country: Brazil,Total number of suicides: 225612.0
+country: Kuwait,Total number of suicides: 967.0
+country: Panama,Total number of suicides: 3484.0
+country: Costa Rica,Total number of suicides: 6793.0
+country: Luxembourg,Total number of suicides: 1959.0
+country: Bahamas,Total number of suicides: 94.0
+country: Ireland,Total number of suicides: 12575.0
+country: Saint Vincent and Grenadines,Total number of suicides: 125.0
+country: Ecuador,Total number of suicides: 20660.0
+country: Australia,Total number of suicides: 70112.0
+country: El Salvador,Total number of suicides: 11684.0
+country: Chile,Total number of suicides: 40896.0
+country: Puerto Rico,Total number of suicides: 9044.0
+country: Belgium,Total number of suicides: 62762.0
+country: Kiribati,Total number of suicides: 54.0
+country: Belize,Total number of suicides: 349.0
+country: Georgia,Total number of suicides: 3225.0
+country: Denmark,Total number of suicides: 15298.0
+country: Poland,Total number of suicides: 139089.0
+country: Croatia,Total number of suicides: 18430.0
+country: Thailand,Total number of suicides: 110644.0
+country: Switzerland,Total number of suicides: 26218.0
+country: Grenada,Total number of suicides: 39.0
+country: Seychelles,Total number of suicides: 99.0
+country: Estonia,Total number of suicides: 7035.0
+country: Uruguay,Total number of suicides: 13139.0
+country: Uzbekistan,Total number of suicides: 34794.0
+country: Republic of Korea,Total number of suicides: 261721.0
+country: Spain,Total number of suicides: 100203.0
+country: Colombia,Total number of suicides: 53081.0
+country: Nicaragua,Total number of suicides: 2014.0
+country: Barbados,Total number of suicides: 178.0
+country: Qatar,Total number of suicides: 575.0
+country: Italy,Total number of suicides: 132061.0
+country: Malta,Total number of suicides: 586.0
+country: Maldives,Total number of suicides: 21.0
+country: Suriname,Total number of suicides: 2167.0
+country: Israel,Total number of suicides: 11295.0
+country: Iceland,Total number of suicides: 1109.0
+country: Trinidad and Tobago,Total number of suicides: 4040.0
+country: Germany,Total number of suicides: 290261.0
+country: Kazakhstan,Total number of suicides: 101537.0
+country: Philippines,Total number of suicides: 21331.0
+country: Kyrgyzstan,Total number of suicides: 13091.0
+country: Sri Lanka,Total number of suicides: 55542.0
+country: Latvia,Total number of suicides: 12771.0
+country: Guyana,Total number of suicides: 3427.0
+country: Mexico,Total number of suicides: 111130.0
+country: Singapore,Total number of suicides: 10090.0
+country: Serbia,Total number of suicides: 24180.0
+country: United Kingdom,Total number of suicides: 136806.0
+country: Greece,Total number of suicides: 12369.0
+country: Paraguay,Total number of suicides: 4784.0
+country: ﻿Albania,Total number of suicides: 1
