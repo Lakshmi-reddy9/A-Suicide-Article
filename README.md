@@ -56,7 +56,9 @@
         - I used Python for map reducing.
 
     - What kind of chart will you use to display your results?
-        - I will use Pie chart to display my results.
+        - I will use Box and Whisker to display my results.
+
+        ![Box and Whisker](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_suicides_by_country.png)
         
 - Rayaan Ahmed 
     - Mapper input: One line of data that mapper will read:
@@ -76,8 +78,11 @@
         - I used Python for map reducing.
 
     - What kind of chart will you use to display your results?
-        - I will use Pie chart to display my results.
+        - I will use Scatter plot to display my results.
         
+
+        ![Scatter Plot](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_suicides_by_year.png)
+
 - Gopi Amara 
     - Mapper input: One line of data that mapper will read:
         - 1 Albania	1995	male	55-74 years	9	178000	5.06	Albania1995	0.619	2,424,499,009	835	Silent
