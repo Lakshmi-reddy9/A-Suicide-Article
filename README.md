@@ -123,3 +123,5 @@
         - I will use Box and Whisker chart to display my results.
 
      ![Box and Whisker](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_suicides_by_age.png)
+     
+     Summary: From the above graph we can observe that as the age grows there is a exponential raise in the suicides and after certain age like 70+ there is a drastic drop in suicides. 
