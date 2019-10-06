@@ -130,4 +130,4 @@
 
      ![Box and Whisker](https://github.com/Lakshmi-reddy9/A-Suicide-Article/blob/master/images/total_no_of_suicides_age.png)
      
-     Summary: From the chart we can observe that there is a exponential growth of suicides as the age span increases and there is a drastic decrease of suicides from age 70.
+     Summary: From the chart we can observe that there is a exponential growth of suicides as the age span increases and there is a drastic decrease of suicides from age 70. With in the age span 25-50 the suicides count is high and the reason behind the raise is due to road accidents and mental tensions. Being a good citizen of the country one needs to follow government rules and balance the life stress.
